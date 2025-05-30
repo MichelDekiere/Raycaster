@@ -1,0 +1,26 @@
+# Visual Studio user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+Debug/
+Release/
+x64/
+*.obj
+*.pdb
+*.ipch
+*.log
+*.tlog
+*.cache
+
+# SFML libraries and includes
+SFML-3.0.0/
+include/
+lib/
+*.lib
+*.dll
+*.so
+*.a
